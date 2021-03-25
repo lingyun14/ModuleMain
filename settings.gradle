@@ -1,2 +1,2 @@
-include ':app', ":SubModule1"
+include ':app', ":SubModule1", ":SubModule2"
 rootProject.name = "ModuleMain"
